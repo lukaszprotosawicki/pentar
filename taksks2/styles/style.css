@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: block;
+    background-color: black;
+
+}
+
+.btn a {
+    text-decoration: none;
+}
+
+.btn a div {
+    display: flex;
+    max-height: 30px;
+}
+
+div img {
+    width: 12px;
+}
+.btn a div div {
+    background-color: rgb(88, 88, 88);
+    height: 100vh;
+
+
+}
+
+.text p {
+
+    color: white;
+    align-self: center;
+    text-align: center;
+    font-weight: bold;
+}
+
+header {
+    padding: 40px;
+}
